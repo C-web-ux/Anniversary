@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Happy 8 Months ❤️</title>
+<style>
+    body{
+        margin:0;
+        height:100vh;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        background:linear-gradient(135deg,#ff9a9e,#fad0c4);
+        font-family:Arial,sans-serif;
+        text-align:center;
+        color:white;
+        padding:20px;
+    }
+    .card{
+        max-width:700px;
+        background:rgba(255,255,255,0.15);
+        padding:30px;
+        border-radius:20px;
+        backdrop-filter:blur(10px);
+    }
+    h1{
+        font-size:2.5rem;
+    }
+    p{
+        font-size:1.2rem;
+        line-height:1.8;
+    }
+</style>
+</head>
+<body>
+    <div class="card">
+        <h1>❤️ Happy 8 Months, My Love ❤️</h1>
+        <p>
+            Wow... 8 whole months with you 🥺💖✨<br><br>
+
+            Every day with you has been special 💕🥰. Thank you for the love ❤️,
+            the laughter 😂💕, the memories 📸✨, and for being such an important
+            part of my life 💞.<br><br>
+
+            My heart still chooses you every single day ❤️🫶🏽💘.
+            You are my happiness 😊💖, my comfort 🤗💕, and my peace 🕊️❤️.<br><br>
+
+            Happy 8 Months Anniversary, Baby ❤️💍🥰😘💋🌹✨<br><br>
+
+            I Love You So Much ❤️🥺💞👑💕
+        </p>
+    </div>
+</body>
+</html>
